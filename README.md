@@ -1,7 +1,7 @@
 # Random-Album-Copy
-Powershell script to copy random (music) albums when you need a random selection of specified size.
+Powershell script to copy random (music) albums when you need a random selection of specified size. It was made for copying a selection of my music collection to my mobile phone, but it should work with any kind of files.
 
-I just leave it here in case someone will find it handy. It's a powershell script, undocumented and with variable names in both English and Czech. Read it on your own risk.
+I'll just leave it here in case someone will find it handy. It's a powershell script, undocumented and with variable names in both English and Czech. Read it on your own risk.
 
 Currently it works only with collections with directory structure:
 <pre>
